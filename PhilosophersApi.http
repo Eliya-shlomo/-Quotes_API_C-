@@ -1,0 +1,6 @@
+@PhilosophersApi_HostAddress = http://localhost:5223
+
+GET {{PhilosophersApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
